@@ -1,4 +1,8 @@
 langdet_word
+<<<<<<< HEAD:README.md
+=======
+============
+>>>>>>> e17bc47dfbce12708a9a5c028e13420d6836ae6e:README.md
 
 Language Detector by Word Frequencies
 
