@@ -1,4 +1,6 @@
-Project 5 by Haotian HE for LING 473
+langdet_word
+
+Language Detector by Word Frequencies
 
 August 31, 2013
 
