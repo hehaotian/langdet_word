@@ -1,6 +1,6 @@
 langdet_word
+============
 
-===================
 
 Language Detector by Word Frequencies
 
